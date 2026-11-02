@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jiani.
 
-<!--
-**LiuJiani0706/LiuJiani0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm exploring the intersection of **Artificial Intelligence, Communication, and Product Development**.
 
-Here are some ideas to get you started:
+With a background in journalism and communication, I'm interested in building AI-powered tools that make research, information processing, and creative workflows more effective.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+- **AI Applications & Agents** — LLM workflows, human-AI collaboration, and evaluation.
+- **Computational Research** — NLP, text analysis, and computational social science.
+- **Product Development** — Turning ideas and research insights into functional prototypes.
+
+### Tools & Technologies
+
+Python · R · SQL · JavaScript · Node.js · LLM APIs · NLP · Data Visualization
+
+### Selected Projects
+
+*Projects and documentation are being organized. More coming soon.*
+
+---
+
+*Curious about how technology shapes the way we create, understand, and use information.*
